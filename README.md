@@ -55,6 +55,6 @@ In Greece, we are usually carried away by humour, by our loud attitudes, by the 
 - via twitter:
   [@AthensAngular](https://twitter.com/AthensAngular)
 - via our meetup page:
-  [Angular Athens meetup](https://twitter.com/AthensAngular)
+  [Angular Athens meetup](https://www.meetup.com/Angular-Athens)
 
 
