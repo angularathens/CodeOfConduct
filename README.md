@@ -1,5 +1,5 @@
-# Code of Conduct
-Our meetup has a code of conduct!
+# Angular Athens meetup Code of Conduct
+Our [meetup](https://www.meetup.com/Angular-Athens/) has a code of conduct!
 
 ## In a nutshell
 
@@ -50,4 +50,11 @@ Our meetup is a place for us to meet (!), a place to have fun, a place to learn,
 In Greece, we are usually carried away by humour, by our loud attitudes, by the stereotypes which are so strong in our families, our workplaces, the television shows we watch, the mass produced culture. Such stereotypes usually include women, homosexuals and persons of other races, and men that have to live up to a tough image. These stereotypes are not to be reproduced in this meetup, even as a joke.	
 
 # Contact us:
-angularathens@gmail.com
+- via mail:
+  angularathens@gmail.com
+- via twitter:
+  [@AthensAngular](https://twitter.com/AthensAngular)
+- via our meetup page:
+  [Angular Athens meetup](https://twitter.com/AthensAngular)
+
+
